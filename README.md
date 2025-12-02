@@ -32,7 +32,7 @@
 
 | File | Size | Description |
 |------|------|-------------|
-| [**Devils-Injector-Portable.zip**](https://github.com/devilbytes/discord-quests/releases/latest) | 8.9 MB | 📦 Portable - Extract & run |
+| [**Devils-Injector-Portable.zip**](https://github.com/devilbytes/discord-quests/archive/refs/heads/main.zip) | 8.9 MB | 📦 Portable - Extract & run |
 
 ---
 
@@ -110,3 +110,4 @@ For educational purposes only. Use at your own risk. May violate Discord ToS.
 <p align="center">
   <sub>© 2025 DevilBytes - All Rights Reserved</sub>
 </p>
+
