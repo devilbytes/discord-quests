@@ -7,10 +7,23 @@
 </p>
 
 <p align="center">
-  <a href="https://www.devilbytes.com/"><img src="https://img.shields.io/badge/Website-DevilBytes-blue?style=for-the-badge" alt="Website"></a>
-  <a href="https://discord.gg/GbagXmcP4t"><img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
-  <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge" alt="Version">
+  <a href="https://www.devilbytes.com/">
+    <img src="https://img.shields.io/badge/Website-DevilBytes-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://discord.gg/GbagXmcP4t">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/devilbytes/discord-quests">
+    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge" />
+
+  <a href="https://github.com/devilbytes/discord-quests">
+    <img src="https://img.shields.io/badge/Visits-1001+-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -110,4 +123,5 @@ For educational purposes only. Use at your own risk. May violate Discord ToS.
 <p align="center">
   <sub>© 2025 DevilBytes - All Rights Reserved</sub>
 </p>
+
 
