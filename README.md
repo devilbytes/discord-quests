@@ -21,9 +21,7 @@
 
   <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge" />
 
-  <a href="https://github.com/devilbytes/discord-quests">
-    <img src="https://img.shields.io/badge/Visits-1001+-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
 </p>
 
 ---
@@ -123,5 +121,6 @@ For educational purposes only. Use at your own risk. May violate Discord ToS.
 <p align="center">
   <sub>© 2025 DevilBytes - All Rights Reserved</sub>
 </p>
+
 
 
